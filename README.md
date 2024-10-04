@@ -1,7 +1,8 @@
 ## Hey
-I'm A CS student at NUST.
-I'm currently learning web development.
-Interested in research projects.
+# I'm A CS student at NUST. 
+# I'm currently learning web development.
+# Interested in research projects.
+
 
 <!--
 **KMAli84/KMAli84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
