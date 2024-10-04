@@ -1,7 +1,7 @@
 ## Hey
-# I'm A CS student at NUST. 
-# I'm currently learning web development.
-# Interested in research projects.
+- I'm A CS student at NUST. 
+- I'm currently learning web development.
+- Interested in research projects.
 
 
 <!--
